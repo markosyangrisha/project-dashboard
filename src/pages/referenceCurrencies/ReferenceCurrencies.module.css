@@ -1,0 +1,12 @@
+
+.table {
+	@apply w-full border rounded-md shadow-sm overflow-hidden
+}
+
+.thead {
+	@apply border-b bg-[#fafafa] shadow-sm max-md:flex-col
+}
+
+.th {
+	@apply px-4 font-semibold text-start border-r
+}

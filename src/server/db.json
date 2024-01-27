@@ -1,0 +1,124 @@
+{
+		"cryptocurrencies": [
+			{
+				"id": "bitcoin",
+				"name": "Bitcoin",
+				"price": "43.1K",
+				"market_cap": "814.1B",
+				"daily_change": 0.025,
+				"logo": "https://www.shutterstock.com/image-vector/vector-illustration-bitcoin-crypto-currency-260nw-725230555.jpg"
+			},
+			{
+				"id": "ethereum",
+				"name": "Ethereum",
+				"price": "3.5K",
+				"market_cap": "400B",
+				"daily_change": -0.015,
+				"logo": "https://logowik.com/content/uploads/images/ethereum3649.jpg"
+			},
+			{
+				"id": "ripple",
+				"name": "Ripple",
+				"price": "1.50",
+				"market_cap": "70B",
+				"daily_change": 0.012,
+				"logo": "https://cdn.iconscout.com/icon/free/png-256/free-ripple-1-441950.png?f=webp"
+			},
+			{
+				"id": "litecoin",
+				"name": "Litecoin",
+				"price": "150",
+				"market_cap": "10B",
+				"daily_change": -0.008,
+				"logo": "https://www.shutterstock.com/image-vector/litecoin-symbol-vector-illustration-ltc-260nw-1806389452.jpg"
+			},
+			{
+				"id": "cardano",
+				"name": "Cardano",
+				"price": "2.20",
+				"market_cap": "60B",
+				"daily_change": 0.018,
+				"logo": "https://i.pinimg.com/originals/76/bd/53/76bd53704a1dde58bca17dc1419da6ee.png"
+			},
+			{
+				"id": "polkadot",
+				"name": "Polkadot",
+				"price": "30",
+				"market_cap": "25B",
+				"daily_change": 0.032,
+				"logo": "https://seeklogo.com/images/P/polkadot-dot-logo-ED40B3633D-seeklogo.com.png"
+			},
+			{
+				"id": "stellar",
+				"name": "Stellar",
+				"price": "0.70",
+				"market_cap": "12B",
+				"daily_change": 0.005,
+				"logo": "https://logowik.com/content/uploads/images/stellar-xlm9125.jpg"
+			},
+			{
+				"id": "chainlink",
+				"name": "Chainlink",
+				"price": "25",
+				"market_cap": "9B",
+				"daily_change": 0.021,
+				"logo": "https://www.shutterstock.com/image-vector/chainlink-symbol-vector-illustration-cryptocurrency-600nw-1807473535.jpg"
+			},
+			{
+				"id": "dogecoin",
+				"name": "Dogecoin",
+				"price": "0.30",
+				"market_cap": "35B",
+				"daily_change": -0.012,
+				"logo": "https://www.shutterstock.com/image-vector/dogecoin-symbol-vector-illustration-xdg-600nw-1806993085.jpg"
+			},
+			{
+				"id": "binance-coin",
+				"name": "Binance Coin",
+				"price": "400",
+				"market_cap": "55B",
+				"daily_change": 0.028,
+				"logo": "https://logowik.com/content/uploads/images/binance-coin-bnb5057.jpg"
+			},
+			{
+				"id": "vechain",
+				"name": "VeChain",
+				"price": "0.15",
+				"market_cap": "8B",
+				"daily_change": 0.009,
+				"logo": "https://logowik.com/content/uploads/images/vechain-vet2049.jpg"
+			},
+			{
+				"id": "tron",
+				"name": "TRON",
+				"price": "0.05",
+				"market_cap": "4.5B",
+				"daily_change": -0.004,
+				"logo": "https://logowik.com/content/uploads/images/tron-coin-trx6384.jpg"
+			},
+			{
+				"id": "eos",
+				"name": "EOS",
+				"price": "6.00",
+				"market_cap": "7B",
+				"daily_change": 0.014,
+				"logo": "https://thumbs.dreamstime.com/b/eos-coin-icon-isolated-white-background-crypto-currency-chrystal-vector-229799984.jpg"
+			},
+			{
+				"id": "tezos",
+				"name": "Tezos",
+				"price": "4.00",
+				"market_cap": "3B",
+				"daily_change": 0.011,
+				"logo": "https://logowik.com/content/uploads/images/tezos-coin-xtz-png8382.jpg"
+			},
+			{
+				"id": "nano",
+				"name": "Nano",
+				"price": "1.50",
+				"market_cap": "800M",
+				"daily_change": 0.009,
+				"logo": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/KAPWTEZXUNFCNF6B6XC6V77UDE.png"
+			}
+		]
+}

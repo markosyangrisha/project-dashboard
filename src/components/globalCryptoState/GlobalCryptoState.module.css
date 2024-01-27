@@ -1,0 +1,8 @@
+
+.global-coin-total {
+	@apply text-gray-500 text-[12px]
+}
+
+.global-coin-price {
+	@apply text-2xl
+}

@@ -1,0 +1,31 @@
+.card-box {
+	@apply rounded-md bg-white shadow-md flex flex-col duration-200 cursor-pointer hover:shadow-xl
+}
+
+.card-block-1 {
+	@apply flex justify-between items-center border-b p-3.5 px-5
+}
+
+.card-block-2 {
+	@apply flex flex-col border-b p-3.5 px-5
+}
+
+.card-block-btn {
+	@apply text-sm text-gray-700 w-full h-full p-3 hover:text-blue-700 transition-all duration-200
+}
+
+.currencies-cards {
+	width: calc(33% - 12px);
+}
+
+@media (max-width: 1490px) {
+	.currencies-cards {
+		width: calc(50% - 12px);
+	}
+}
+
+@media (max-width: 768px) {
+	.currencies-cards {
+		width: 100%;
+	}
+}
